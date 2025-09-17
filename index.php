@@ -15,13 +15,14 @@
                 ?>
             </div>
         </div>
-        <div class="row" style="min-height: 700px;">
+        <div class="row" style="min-height: 50px;">
             <div class="col-md-12">
                 <!-- Menu //-->
                 <?php
                     include 'includes/menu.php';
                 ?>
             </div>
+</div>
             <div class="col-md-10" style="padding-top: 50px;">
                 <!-- Conteúdo //-->
                 <h2>Página Inicial</h2>
