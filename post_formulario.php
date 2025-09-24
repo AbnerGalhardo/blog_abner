@@ -72,11 +72,14 @@
                                    value="<?php echo $hora ?>">
                         </div>
                     </div>
-                </div>
-                <div class="text-right">
+                    <div> 
+                    <div class="text-right">
                     <button class="btn btn-success"
                             type="submit">Salvar</button>
-                </div>
+                </div>   
+                    </div>
+                
+            </div>
             </form>
         </div>
     </div>

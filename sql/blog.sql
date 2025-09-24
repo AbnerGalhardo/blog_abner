@@ -47,3 +47,7 @@ CREATE TABLE post (
     FOREIGN KEY (usuario_id) REFERENCES usuario(id)
 
 );
+
+SELECT * FROM usuario;
+
+UPDATE `blog`.`usuario` SET `ativo`='1', `adm`='1' WHERE `id`='1';
